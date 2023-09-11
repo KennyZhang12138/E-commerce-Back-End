@@ -16,7 +16,6 @@ Internet retail, also known as e-commerce, plays a significant role within the e
 - [Example](#Example)
 - [Full Walkthrough Video](#full-walkthrough-video)
 - [Contributors](#Contributors)
-- [Tests](#Tests)
 - [Questions](#Questions)
 
 ## Installation
