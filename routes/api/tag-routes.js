@@ -55,7 +55,7 @@ router.put("/:id", async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!tagData[0]) {
+    if (!tagData) {
       res.status(404).json({ message: "No Tag found!" });
       return;
     }
@@ -73,11 +73,11 @@ router.delete("/:id", async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!tagData[0]) {
+    if (!tagData) {
       res.status(404).json({ message: "No Tag found!" });
       return;
     }
-    res.status(200).json(tagData);
+    res.status(200).json({ message: "Tag deleted!" });
   } catch (err) {
     res.status(500).json(err);
   }
