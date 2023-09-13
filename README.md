@@ -49,7 +49,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ![](./images/ex1.png)
 
 ## Full Walkthrough Video
-[Link](https://drive.google.com/file/d/1_K-mbx1Yh8X-hAK3_4uju7zk4Opfpcvd/view)
+[Link](https://drive.google.com/file/d/1HQcI-nQgivsA3_Zq_una5N_z3tKbG8WR/view)
 ![](./images/ex2.gif)
 
 ## Contributors
